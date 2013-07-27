@@ -1,3 +1,3 @@
 image_tests
 ===========
-sss hhhsss sssssssssssss ssssssssssssssssfffljljljl
+sss hhhsss ss
