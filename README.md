@@ -1,3 +1,3 @@
 image_tests
 ===========
-Modu 632
+Modu 632ssfs
