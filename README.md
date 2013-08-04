@@ -1,3 +1,3 @@
 image_tests
 ===========
-test 1
+test 1s
